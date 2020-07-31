@@ -1,6 +1,6 @@
 # Engineering nternships in Europe :earth_africa: :computer:
 
-This is a list of companies that offer internships in Europe. It's not tied to any specific year or season. I was slowly building it up through the university – first for myself, then for my friends and members of various programming groups. I'm not associated in any way with most of the companies on the list and can't recommend them. 
+This is a list of companies that offer internships in Europe. It's not tied to any specific year or season. I was slowly building it up through the university – first for myself, then for my friends and members of various programming groups. I'm not associated in any way with most of the companies on the list, can't recommend them and don't look for internships anymore.
 
 Feel free to contribute!
 
